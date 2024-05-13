@@ -62,12 +62,12 @@ export default function Home() {
               <HeartIcon className='h-12 w-12 text-green-500' />
               <h3 className='text-2xl font-bold'>Mindfulness Practices</h3>
               <p className='text-gray-500'>
-                Explore meditation, yoga, and other techniques to cultivate
-                inner peace. Through these practices, we can learn to quiet the
-                mind, connect with our true selves, and develop a deeper
-                appreciation for the natural world around us. By fostering
-                mindfulness, we can find greater clarity, resilience, and joy in
-                our daily lives, and inspire others to do the same.
+                Explore meditation, and other techniques to cultivate inner
+                peace. Through these practices, we can learn to quiet the mind,
+                connect with our true selves, and develop a deeper appreciation
+                for the natural world around us. By fostering mindfulness, we
+                can find greater clarity, resilience, and joy in our daily
+                lives, and inspire others to do the same.
               </p>
             </div>
           </div>
