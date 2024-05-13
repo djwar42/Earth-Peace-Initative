@@ -1,6 +1,6 @@
 ## Earth Peace Initiative
 
-EarthPeace.com.au
+[EarthPeace.com.au](https://earthpeace.com.au)
 
 The Earth Peace Initiative is dedicated to cultivating a more harmonious and sustainable future for all. We believe that by fostering a deeper connection with nature and practicing mindfulness, we can create a world of greater peace, compassion, and understanding.
 
