@@ -77,7 +77,7 @@ export default function Home() {
       <footer className='bg-gray-100 py-8'>
         <div className='container px-4 md:px-6 mx-auto'>
           <div className='flex flex-col items-center justify-center gap-4 sm:flex-row'>
-            <p className='text-sm text-gray-500'>
+            <p className='text-sm text-gray-500 text-center'>
               © 2024 Earth Peace Initiative
               <br />
               ABN 12671003442
