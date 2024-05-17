@@ -78,7 +78,9 @@ export default function Home() {
         <div className='container px-4 md:px-6 mx-auto'>
           <div className='flex flex-col items-center justify-center gap-4 sm:flex-row'>
             <p className='text-sm text-gray-500'>
-              © 2024 Earth Peace Initiative.
+              © 2024 Earth Peace Initiative
+              <br />
+              ABN 12671003442
             </p>
           </div>
         </div>
